@@ -2,24 +2,40 @@ h1{
     text-align: center;
 }
 
-img{
-    text-align: center;
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
 }
 
-.recipe_list{
+.recipe_list, .recipe_list_item{
     text-align: center;
-    color:brown;
     background-color: darkslategray;
+    margin: 20px;
+    padding: 20px;
+    list-style-type: none;
 }
 
-.recipe_item_name{
-    text-align: center;
-    color:brown;
-    font-size: xx-large;
+.recipe_img {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    border: 3px solid black;
 }
 
 .recipe_item_body{
     color:blueviolet;
     background-color:aliceblue;
+    padding: 20px;
 }
 
+.recipe-website-title{
+    margin: 50px;
+}
+
+.return-link{
+    text-align: center;
+    background-color: darkslategray;
+    padding: 20px;
+    color: whitesmoke;
+}
