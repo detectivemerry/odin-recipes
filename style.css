@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+.recipe_list{
+    text-align: center;
+    color:brown;
+    background-color: darkslategray;
+}
+
+.recipe_item_name{
+    text-align: center;
+    color:brown;
+    font-size: xx-large;
+}
+
+.recipe_item_body{
+    color:blueviolet;
+    background-color:aliceblue;
+}
+
